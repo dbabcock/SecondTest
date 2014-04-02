@@ -7,6 +7,10 @@ import android.view.MenuItem;
 
 public class MainActivity extends Activity {
 
+
+    // This is another crappy app. 
+
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
