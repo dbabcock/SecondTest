@@ -8,7 +8,7 @@ import android.view.MenuItem;
 public class MainActivity extends Activity {
 
 
-    // This is another crappy app. 
+    // This is another crappy app. Screw YOU!
 
 
     @Override
